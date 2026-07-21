@@ -1,0 +1,13 @@
+# Private API Configuration
+config.json
+
+# Generated Reports
+*.xlsx
+Index_Report.md
+
+# Python cache & temporary files
+__pycache__/
+*.pyc
+*.db
+*.log
+.DS_Store
